@@ -1,7 +1,8 @@
 # Weather App 🌦
 
 A simple Python weather app using OpenWeather API and Tkinter.
-
+## Live Demo
+[🌤️ Open Weather App](https://avatopa.github.io/weather_app/)
 ## Features
 - Get real-time weather
 - Dynamic background based on weather
